@@ -3,6 +3,7 @@ public class HiGit {
         System.out.println("hello git!");
         System.out.println("123");
         System.out.println("更新1");
+        System.out.println("创建分支");
 
     }
 }
